@@ -1,2 +1,0 @@
-/*! © 2026 Lê Đình Quý (quyhhth@gmail.com). Phần mềm giám sát trạm trộn bê tông nhựa — bảo lưu mọi quyền. Nghiêm cấm sao chép. */
-window.CAU_HINH_WEB={SUPABASE_URL:"https://pwwrjkgufedglelipoyw.supabase.co",SUPABASE_PUBLISHABLE_KEY:"",TEN_UNG_DUNG:"Giám sát trạm BTN",BAN_QUYEN:"© 2026 Lê Đình Quý (quyhhth@gmail.com). Phần mềm giám sát trạm trộn bê tông nhựa — bảo lưu mọi quyền. Nghiêm cấm sao chép.",CHU_KY_TRUC_TIEP_GIAY:10,MAT_KET_NOI_SAU_GIAY:45};
